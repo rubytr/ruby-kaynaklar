@@ -11,6 +11,7 @@
 ### Kitaplar
 
 * [Ruby](https://www.dikeyeksen.com/products/ruby) - Sıtkı Bağdat
+* [Ruby on Rails Web Framework için Ruby] (https://www.seckin.com.tr/kitap/369965548) - Prof. Dr. Timur Karaçay
 * [Ruby Programlama](http://www.kodlab.com/BookDetail.aspx?ID=134405) - Ender Kuş
 * [İngilizce kitaplar](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby)
 
