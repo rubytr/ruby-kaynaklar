@@ -4,7 +4,7 @@
 
 ### Başlangıç
 
-* Belge okuyup anlamaya yetecek kadar İngilizce...
+* Belge okuyup anlamaya yetecek kadar İngilizce
 * [Ruby programlama dili web sayfası](https://www.ruby-lang.org/en/)
 * [Try Ruby](http://tryruby.org)
 
