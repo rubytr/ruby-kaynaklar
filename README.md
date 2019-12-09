@@ -5,7 +5,7 @@
 ### Başlangıç
 
 * Belge okuyup anlamaya yetecek kadar İngilizce
-* [Ruby programlama dili web sayfası](https://www.ruby-lang.org/en/)
+* [Ruby programlama dili web sayfası](https://www.ruby-lang.org/tr/)
 * [Try Ruby](http://tryruby.org)
 
 ### Kitaplar
