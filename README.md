@@ -20,6 +20,7 @@
 * [I Love Ruby](https://i-love-ruby.gitlab.io/) - Karthikeyan A K
 * [Ruby Monstas](http://ruby-for-beginners.rubymonstas.org/)
 * [Ruby Book List](https://gist.github.com/baweaver/57a7c8296ca2c03effbd8fac1e7f6b40)
+* [Vikikitap Ruby](https://tr.wikibooks.org/wiki/Ruby)
 
 ### Listeler
 * [Awesome Ruby](https://awesome-ruby.com/)
