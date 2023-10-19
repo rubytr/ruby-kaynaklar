@@ -6,17 +6,16 @@
 
 * Belge okuyup anlamaya yetecek kadar İngilizce
 * [Ruby programlama dili web sayfası](https://www.ruby-lang.org/tr/)
-* [Try Ruby](http://tryruby.org)
+* [Try Ruby](https://try.ruby-lang.org/)
 * [Ruby Koans](http://rubykoans.com/)
-* [The Odin Project](https://www.theodinproject.com/ruby-programming)
+* [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 * [Jumpstart Labs](http://tutorials.jumpstartlab.com/)
 
 ### Kitaplar
 
 * [Ruby](https://www.dikeyeksen.com/products/ruby) - Sıtkı Bağdat
 * [Ruby on Rails Web Framework için Ruby](https://www.seckin.com.tr/kitap/369965548) - Prof. Dr. Timur Karaçay
-* [Ruby Programlama](http://www.kodlab.com/BookDetail.aspx?ID=134405) - Ender Kuş
-* [İngilizce kitaplar](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#ruby)
+* [İngilizce kitaplar](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby)
 * [I Love Ruby](https://i-love-ruby.gitlab.io/) - Karthikeyan A K
 * [Ruby Monstas](http://ruby-for-beginners.rubymonstas.org/)
 * [Ruby Book List](https://gist.github.com/baweaver/57a7c8296ca2c03effbd8fac1e7f6b40)
