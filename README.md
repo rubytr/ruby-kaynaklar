@@ -36,6 +36,9 @@
 - [Neden JavaScript’i bırakıp Ruby’e geçiyorum?](https://medium.com/@fkadev/neden-javascripti-bırakıp-ruby-e-geçiyorum-d1e274ce9c89) - Fatih Kadir Akın
 - [Zenspider](https://www.zenspider.com/ruby/)
 - [Ruby Quicktips](https://rubyquicktips.com/)
+- [Pessimistic Locking in Rails](https://www.peterdebelak.com/blog/pessimistic-locking-in-rails-by-example/)
+- [The Definitive Guide to Rack for Rails Developers](https://www.writesoftwarewell.com/definitive-guide-to-rack/#making-ruby-code-talk-to-web-servers)
+- [RSpec Best Practices](https://www.betterspecs.org/#single)
 
 ### Kodlama Rehberi
 
